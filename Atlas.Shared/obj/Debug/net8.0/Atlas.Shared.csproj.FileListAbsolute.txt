@@ -1,0 +1,12 @@
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\bin\Debug\net8.0\Atlas.Shared.deps.json
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\bin\Debug\net8.0\Atlas.Shared.dll
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\bin\Debug\net8.0\Atlas.Shared.pdb
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\obj\Debug\net8.0\Atlas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\obj\Debug\net8.0\Atlas.Shared.AssemblyInfoInputs.cache
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\obj\Debug\net8.0\Atlas.Shared.AssemblyInfo.cs
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\obj\Debug\net8.0\Atlas.Shared.csproj.CoreCompileInputs.cache
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\obj\Debug\net8.0\Atlas.Shared.sourcelink.json
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\obj\Debug\net8.0\Atlas.Shared.dll
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\obj\Debug\net8.0\refint\Atlas.Shared.dll
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\obj\Debug\net8.0\Atlas.Shared.pdb
+C:\wip\Sisalril\NUPRE\Atlas\Atlas.Shared\obj\Debug\net8.0\ref\Atlas.Shared.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDcDBIfj/yVP8LoMRgdvFeugy57VS+TUf9O7aosLyI+fX87Cct5+P6bbLmnqnMBpuoQOJWJCxK3fR/0bT3Flnw==",
+  "success": false,
+  "projectFilePath": "C:\\wip\\Sisalril\\NUPRE\\Atlas\\Atlas.Mobile\\Atlas.Mobile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g.montero\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "La versión de la plataforma no está presente para una o varias plataformas de destino, aunque se haya especificado una plataforma: net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}
